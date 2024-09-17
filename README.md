@@ -19,8 +19,8 @@ Provides a  Weather Forecast And History System for managing locations, weather 
   - Providing a menu-driven interface for user interaction, including managing locations, weather variables, and exporting data.
 + *TECHNOLOGIES USED*: C++, libcurl Library, nlohmann/json Library, fstream, API
 + *OUTCOME*: Accurate weather forecasting, seamless data exports, and a robust interface for managing weather variables and locations.
-  --- ---
-  ### TASK 1:Contact Management System
+--- ---
+  ### TASK 2:Contact Management System
 ---
 ### *OBJECTIVE*:
 Implement a simple system to manage contacts demonstrating basic object-oriented programming concepts like classes, vectors, and user input handling.
@@ -34,4 +34,4 @@ Implement a simple system to manage contacts demonstrating basic object-oriented
   - Providing a menu-driven interface for user interaction.
 + *TECHNOLOGIES USED*: C++,OOP,Standard Template Library (STL).
 + *OUTCOME*: The system provides a simple, interactive way to manage contacts, demonstrating core OOP principles and dynamic data handling with C++.
-  --- ---
+--- ---
