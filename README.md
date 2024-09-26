@@ -35,3 +35,20 @@ Implement a simple system to manage contacts demonstrating basic object-oriented
 + *TECHNOLOGIES USED*: C++,OOP,Standard Template Library (STL).
 + *OUTCOME*: The system provides a simple, interactive way to manage contacts, demonstrating core OOP principles and dynamic data handling with C++.
 --- ---
+### TASK 3:Simple File Compression Algorithm:
+---
+### *OBJECTIVE*:
+Develop a basic file compression and decompression tool.
++ *DESCRIPTION*:
+  - Create a C++ program that reads a file, compresses its content using a simple algorithm (e.g., Run-Length Encoding).
+  - Writes the compressed data to a new file.
+  - Also, implement decompression.
++ *KEY STEPS* :
+  - Reading and writing files.
+  - Implementing the Run-Length Encoding algorithm.
+  - Handling edge cases (e.g., different file types, empty files)
+  - Creating functions for both compression and decompression.
++ *TECHNOLOGIES USED*: C++,OOP,Standard Template Library (STL),File Handling,Error Handling.
++ *OUTCOME*: The code implements a file compression and decompression utility that reads a text file, compresses its content using run-length encoding, and allows users to decompress the compressed file, handling errors and file operations appropriately.
+--- ---
+
