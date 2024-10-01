@@ -20,7 +20,7 @@ Provides a  Weather Forecast And History System for managing locations, weather 
 + *TECHNOLOGIES USED*: C++, libcurl Library, nlohmann/json Library, fstream, API
 + *OUTCOME*: Accurate weather forecasting, seamless data exports, and a robust interface for managing weather variables and locations.
 --- ---
-  ### TASK 2:Contact Management System
+  ### TASK 2: Contact Management System
 ---
 ### *OBJECTIVE*:
 Implement a simple system to manage contacts demonstrating basic object-oriented programming concepts like classes, vectors, and user input handling.
@@ -35,7 +35,7 @@ Implement a simple system to manage contacts demonstrating basic object-oriented
 + *TECHNOLOGIES USED*: C++,OOP,Standard Template Library (STL).
 + *OUTCOME*: The system provides a simple, interactive way to manage contacts, demonstrating core OOP principles and dynamic data handling with C++.
 --- ---
-### TASK 3:Simple File Compression Algorithm:
+### TASK 3: Simple File Compression Algorithm
 ---
 ### *OBJECTIVE*:
 Develop a basic file compression and decompression tool.
@@ -50,5 +50,20 @@ Develop a basic file compression and decompression tool.
   - Creating functions for both compression and decompression.
 + *TECHNOLOGIES USED*: C++,OOP,Standard Template Library (STL),File Handling,Error Handling.
 + *OUTCOME*: The code implements a file compression and decompression utility that reads a text file, compresses its content using run-length encoding, and allows users to decompress the compressed file, handling errors and file operations appropriately.
+--- ---
+### TASK 3: Multi-Threaded Web Server
+---
+### *OBJECTIVE*:
+Develop a basic web server that can handle multiple client requests simultaneously.
++ *DESCRIPTION*:
+  - Create a C++ program that listens for HTTP requests and serves static HTML files.
+  - Use multi-threading to handle multiple clients concurrently.
++ *KEY STEPS* :
+  - Setting up socket programming to handle HTTP requests and responses.
+  - Implementing multi-threading using the C++ Standard Library&#39;s thread support.
+  - Serving static HTML files from a specified directory.
+  - Handling concurrent client connections.
++ *TECHNOLOGIES USED*: C++,Socket Programming,Multithreading,HTTP Protocol,Cross-Platform Compatibility,OOP,File Handling,Standard Library
++ *OUTCOME*: The code implements a simple multi-threaded HTTP server in C++ that listens for incoming client requests on a specified port, serves static HTML files, and handles multiple connections concurrently, providing a basic demonstration of socket programming and object-oriented design.
 --- ---
 
