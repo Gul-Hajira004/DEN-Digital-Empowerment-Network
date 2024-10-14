@@ -66,4 +66,20 @@ Develop a basic web server that can handle multiple client requests simultaneous
 + *TECHNOLOGIES USED*: C++,Socket Programming,Multithreading,HTTP Protocol,Cross-Platform Compatibility,OOP,File Handling,Standard Library
 + *OUTCOME*: The code implements a simple multi-threaded HTTP server in C++ that listens for incoming client requests on a specified port, serves static HTML files, and handles multiple connections concurrently, providing a basic demonstration of socket programming and object-oriented design.
 --- ---
+### TASK 5: Text-Based Adventure Game
+---
+### *OBJECTIVE*:
+Design an interactive text-based adventure game where players navigate through different scenarios, make decisions, and progress based on their choices.
++ *DESCRIPTION*:
+  - The game allows players to explore a mysterious forest filled with creatures, treasures, and puzzles.
+  - Players must make decisions that affect their health and inventory, ultimately aiming to escape the forest.
++ *KEY STEPS* :
+  - Creating a player class to manage attributes such as health and inventory.
+  - Implementing game mechanics to handle encounters, treasure finding, and puzzle solving.
+  - Using conditional statements and loops to manage game flow and player choices.
+  - Validating user input to ensure valid game actions.
+  - Displaying health and inventory management to enhance user experience.
++ *TECHNOLOGIES USED*: C++,OOP,Standard Library (STL)
++ *OUTCOME*: The code implements a complete text-based adventure game in C++ that engages players in decision-making and exploration, featuring various encounters and challenges. It serves as an example of basic game design principles, user interaction, and object-oriented programming.
+--- ---
 
